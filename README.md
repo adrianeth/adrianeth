@@ -1,3 +1,3 @@
-<h2> Hi there 👋, I'm Adrian Dumitru! </h2>
+<h2> Hi there 👋, I'm Adrian! </h2>
 
 
